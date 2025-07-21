@@ -16,6 +16,7 @@ This repository contains the internship tasks completed as part of the **CODING 
 ---
 ## 📁 Project Structure
 
+```
 CODING-SAMURAI-INTERNSHIP-TASK/
 ├── Project 1 - House Price Prediction/
 │   ├── house_price_prediction.ipynb
@@ -25,6 +26,7 @@ CODING-SAMURAI-INTERNSHIP-TASK/
 │   ├── iris_classification.ipynb
 │   ├── iris.csv
 │   └── README.md
+```
 
 
 ---
