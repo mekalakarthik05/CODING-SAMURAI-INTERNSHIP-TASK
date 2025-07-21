@@ -14,17 +14,17 @@ This repository contains the internship tasks completed as part of the **CODING 
 - Scikit-learn pipelines
 
 ---
-
 ## 📁 Project Structure
+
 CODING-SAMURAI-INTERNSHIP-TASK/
 ├── Project 1 - House Price Prediction/
-  ├── house_price_prediction.ipynb
-  ├── dataset.csv
-  └── README.md
+│   ├── house_price_prediction.ipynb
+│   ├── dataset.csv
+│   └── README.md
 ├── Project 2 - Iris Flower Classification/
-  ├── iris_classification.ipynb
-  ├── iris.csv
-  └── README.md
+│   ├── iris_classification.ipynb
+│   ├── iris.csv
+│   └── README.md
 
 
 ---
