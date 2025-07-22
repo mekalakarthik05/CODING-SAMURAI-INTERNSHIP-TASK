@@ -87,8 +87,8 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
         transition={{ delay: 0.5 }}
       >
         <p className="text-lg text-purple-700 mb-4">
-          Just a little more... A small gift for <br /> my favorite person❤️ Nani🤩
-        </p> {/* Change this name accordingly */}
+          Just a little more... A small gift for my favorite person❤️
+        </p> 
 
         <div className="flex justify-center space-x-2">
           {Array.from({ length: 3 }).map((_, i) => (
