@@ -72,7 +72,7 @@ export default function Home() {
           animate={{ scale: 1 }}>
           <AnimatePresence mode="wait">
             {isBirthday ? (
-              <BirthdayCelebration key="celebration" name="Trinesh" /> // Change this name accordingly
+              <BirthdayCelebration key="celebration" /> 
             ) : (
               <Countdown key="countdown" targetDate={birthdayDate} onCountdownEnd={() => setShowForYouBtn(true)} />
             )}
