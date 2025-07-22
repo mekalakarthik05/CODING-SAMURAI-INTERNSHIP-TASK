@@ -121,7 +121,8 @@ export default function BirthdayCelebration() {
           May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
+            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶 <br /> Your one and only,
+Karthik 😇💖💫</p>
           </div>
         </div>
       </motion.div>
